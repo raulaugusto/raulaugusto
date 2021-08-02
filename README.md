@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 Estou estudando NodeJs
 
 <div>
-  <a href="https://www.instagram.com/raul.psantos/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/raul.psantos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
