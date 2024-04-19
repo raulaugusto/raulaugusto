@@ -1,37 +1,25 @@
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-</head>
-<body>
-  <h1>Hi there 👋 <i class="devicon-mysql-plain"></i></h1>
+# Olá, sou [Raul]
 
+## Sobre Mim
+Sou um estudante de Bacharelado em Ciência da Computação, apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
 
+- 🌱 Atualmente estou aprendendo e aprofundando meus conhecimentos em diversas áreas da computação.
+- 💻 Tenho experiência com desenvolvimento de software em C# .NET e JavaScript/TypeScript.
+- 📊 Estou interessado em projetos que envolvam .NET, desenvolvimento web, aplicativos móveis e ciência de dados.
+- 🎵 Nas horas vagas, gosto de ouvir e fazer música e jogar.
 
+## Tecnologias
+Aqui estão algumas das tecnologias com as quais trabalho:
 
+- C# .NET
+- JavaScript/TypeScript
+- MongoDB
+- HTML/CSS
+- Node.js
+- React
+- Angular
 
+## Contato
+Você pode me encontrar no seguinte endereço de e-mail: [contatoraulaugusto@gmail.com](mailto:contatoraulaugusto@gmail.com)
 
-- 💻 Trabalhando em projetos pessoais
-- 🤓 Estou estudando NodeJs
-- 🎮 Video-game no tempo livre
-- 📄 Buscando emprego
-
-<div style="display: inline_block"><br>
-  <b>Tecnologias:</b>
-  <br><br>
-  <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Raul-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Raul-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
-</div>
-<br><br>
-<div>
-  <b>Social:</b>
-  <br><br>
-  <a href="https://wa.link/erwwcq" alt="whatsapp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/raul.psantos/" alt="instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
-  <a href="mailto:contatoraulaugusto@gmail.com" alt="gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/raulaugusto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
-</div>
-    </body>
+Fique à vontade para explorar meus repositórios e entrar em contato se quiser colaborar em algum projeto ou simplesmente trocar ideias sobre desenvolvimento de software e tecnologia. 😊
