@@ -1,4 +1,4 @@
-# Olá, sou [Raul]
+# Olá, sou Raul
 
 ## Sobre Mim
 Sou um estudante de Bacharelado em Ciência da Computação, apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
