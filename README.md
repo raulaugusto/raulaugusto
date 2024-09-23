@@ -13,7 +13,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 - C# .NET
 - JavaScript/TypeScript
-- MongoDB
+- MongoDB/MySql
 - HTML/CSS
 - Node.js
 - React
