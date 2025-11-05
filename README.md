@@ -1,25 +1,42 @@
-# Olá, sou Raul
+# 👋 Olá, eu sou o Raul Augusto  
 
-## Sobre Mim
-Sou um estudante de Bacharelado em Ciência da Computação, apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
+## 💡 Sobre Mim  
+Sou **Bacharel de Ciência da Computação** e **profissional de TI na FIEMG**, apaixonado por tecnologia, ensino e desenvolvimento de software.  
+Atuo atualmente como **Técnico de Suporte de Informática**, e venho expandindo minha carreira para a área de **desenvolvimento full stack** e **instrução em tecnologia**.  
 
-- 🌱 Atualmente estou aprendendo e aprofundando meus conhecimentos em diversas áreas da computação.
-- 💻 Tenho experiência com desenvolvimento de software em C# .NET e JavaScript/TypeScript.
-- 📊 Estou interessado em projetos que envolvam .NET, desenvolvimento web, aplicativos móveis e ciência de dados.
-- 🎵 Nas horas vagas, gosto de ouvir e fazer música e jogar.
+Gosto de unir o lado técnico e o humano da computação — **resolver problemas reais**, **compartilhar conhecimento** e **ensinar de forma prática e acessível**.  
 
-## Tecnologias
-Aqui estão algumas das tecnologias com as quais trabalho:
+- 🌱 Atualmente estudando e praticando **.NET, Node.js, React e Banco de Dados**  
+- 💻 Experiência em **C#, JavaScript/TypeScript, HTML, CSS e SQL**  
+- 🧠 Interesse em **educação tecnológica, desenvolvimento web e automação de sistemas**  
+- 🎵 Nas horas vagas, gosto de **tocar música e jogar** 🎮  
 
-- C# .NET
-- JavaScript/TypeScript
-- MongoDB/MySql
-- HTML/CSS
-- Node.js
-- React
-- Angular
+---
 
-## Contato
-Você pode me encontrar no seguinte endereço de e-mail: [contatoraulaugusto@gmail.com](mailto:contatoraulaugusto@gmail.com)
+## 🧰 Tecnologias & Ferramentas  
+💻 **Linguagens e Frameworks**  
+C# • .NET • JavaScript • TypeScript • Node.js • React • Angular • PHP  
 
-Fique à vontade para explorar meus repositórios e entrar em contato se quiser colaborar em algum projeto ou simplesmente trocar ideias sobre desenvolvimento de software e tecnologia. 😊
+🗄️ **Banco de Dados**  
+MySQL • MongoDB • PostgreSQL  
+
+⚙️ **Outras Skills**  
+HTML • CSS • Git/GitHub • Docker (noções) • VS Code • Windows & Linux  
+
+---
+
+## 🧩 Projetos em Destaque  
+- ♟️ **[ChessGame](https://github.com/raulaugusto/ChessGame)** – Jogo de xadrez em C# com interface em XAML (WPF), aplicando POO e lógica de jogadas.  
+- 🌐 **[E-greja](https://github.com/App-igreja/e-greja)** – Sistema web completo com TypeScript, Angular e Firebase, com autenticação e permissões.  
+- 🎓 **[Aula DOM JavaScript](https://github.com/raulaugusto/Aula_DOM)** – Aula experimental ministrada no SENAI/FIEMG, com excelente feedback da gestão.  
+
+---
+
+## 📫 Contato  
+📧 [contatoraulaugusto@gmail.com](mailto:contatoraulaugusto@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/raulaugusto)  
+💻 [GitHub](https://github.com/raulaugusto)  
+
+---
+
+⭐ *“Aprender, ensinar e criar são as três formas que encontrei de transformar curiosidade em impacto.”*
